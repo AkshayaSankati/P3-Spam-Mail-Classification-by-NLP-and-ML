@@ -19,7 +19,10 @@
    
 git clone https://github.com/AkshayaSankati/Spam-Mail-Classification-by-NLP-and-ML
 
-cd Spam-Mail-Classification-by-NLP-and-ML
+cd  Spam-Mail-Classification-by-NLP-and-ML
+
+
+ #happy learning and coding 😊 
 
 
 
