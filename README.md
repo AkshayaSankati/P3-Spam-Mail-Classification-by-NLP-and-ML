@@ -22,7 +22,7 @@ git clone https://github.com/AkshayaSankati/Spam-Mail-Classification-by-NLP-and-
 cd  Spam-Mail-Classification-by-NLP-and-ML
 
 
- #happy learning and coding 😊 
+ # Happy learning and coding 😊 
 
 
 
